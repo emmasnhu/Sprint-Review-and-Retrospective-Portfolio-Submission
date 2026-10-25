@@ -1,2 +1,13 @@
 # Sprint-Review-and-Retrospective-Portfolio-Submission
 This is my portfolio submission for Southern New Hampshire University's Software Development Lifecycle class. It is a typed up Sprint Review of the work completed in previous modules. 
+
+There are a few additional required questions for this assignment: 
+
+**1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+The first step in interpreting and implementing user needs is to figure out what the needs are. This can be done through a focus group, an online forum, or through reviews. Taking the user's feedback and turning it into a user story helps to figure out what to implement because the user story lays everything out. The typical format for a user story is "As a ___, I want ___, so that ____." This helps determine who the story is coming from, what they want implemented, and why. It gives the essential information of what a user wants. It also gives the developer flexibility because they can see what needs to be added and why, and then the developer can choose to implement that in any way they deem fit. 
+
+**2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?**
+In all honestly, I often feel stuck when developing a program because I usually never know where to start or what things I need to add to make a program work. After learning about Agile in this course, I think I can finally improve that. The main process I want to incorporate is keeping a Product Backlog for my future projects. This way, I can write out all the tasks I think the project requires and then sort them by priority and difficulty. I also think this will help me plan and break down my projects better instead of getting overwhelmed about the final result. 
+
+**3. What does it mean to be a good team member in software development?**
+There is a lot that goes into being a good team member in software development. I think one of the most important things is to have good communication with your other team members and being willing to collaborate. You should update your team members on what you're working on on a regular basis. You also shouldn't assume that you know how to do everything and instead be open to other people's ideas and solutions. If someone is struggling with a task, you should offer to help them figure it out. If you are also having any difficulties, suffering silently can unknowingly bring the team down and you should not be scared to reach out for help too. Being respectful to your other team members is also essential in software development, even when you may disagree. 
